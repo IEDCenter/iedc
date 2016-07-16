@@ -1,0 +1,28 @@
+{
+  "name": "iedc",
+  "version": "0.0.2",
+  "description": "A Website to create, run and manage a entrepreneur community",
+  "main": "server.js",
+  "dependencies": {
+    "notp": "^2.0.3",
+    "total.js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iedcenter/iedc.git"
+  },
+  "keywords": [
+    "iedc",
+    "entrepreneurship"
+  ],
+  "author": "Athul Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iedcenter/iedc/issues"
+  },
+  "homepage": "https://github.com/iedcenter/iedc#readme"
+}

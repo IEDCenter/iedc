@@ -6,5 +6,5 @@ exports.install = function() {
 
 function view_index() {
 	var self = this;
-	self.view('layout');
+	self.view('index');
 }
